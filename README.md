@@ -13,7 +13,7 @@ The script will try to generate an impulse response that transforms the source a
 
 ## How to use it?
 
-### Enviroment 
+### Environment 
 
 1. Install Scilab if needed.
 2. Download the two files in the repository into a folder.
