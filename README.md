@@ -33,4 +33,6 @@ The 'source' represents the signal from the pickup of your acoustic instrument, 
 - last 60 - 90 s.
 - contain a good representation of the instrument and your playing style (strumming, fingerpicking, ...).
 
+All constructive comments and suggestions welcome!
+
 ![UI](https://user-images.githubusercontent.com/16563417/220201039-1f1b89b5-0e82-4b3a-9680-c1517521c339.jpg)
