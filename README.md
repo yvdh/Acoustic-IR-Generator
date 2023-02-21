@@ -1,5 +1,5 @@
-# Acoustic-IR-Generator
-A script for Scilab that allows generation of an IR from pickup and mic'd audio.
+# Acoustic instrument IR Generator
+A script for Scilab that allows generation of an IR from pickup and mic'd audio of an acoustic instrument.
 
 This runs on Scilab (an open Matlab-like computing environment), and has been tested with version 6.1.1.
 
@@ -15,7 +15,7 @@ The script will try to generate an impulse response that transforms the source a
 
 ### Environment 
 
-1. Install Scilab if needed.
+1. Install Scilab if needed. I used 6.1.1.
 2. Download the two files in the repository into a folder.
 3. Set the working directory of scilab to that folder.
 4. Run the UI part of the script in the scilab command processor using 'exec AudioIR.ui.sce'.
@@ -32,6 +32,10 @@ The 'source' represents the signal from the pickup of your acoustic instrument, 
 - start with 10 s silence (for noise estimation).
 - last 60 - 90 s.
 - contain a good representation of the instrument and your playing style (strumming, fingerpicking, ...).
+
+I am a physicist and biomedical engineer with some knownledge of signal processing, but by no means an expert! 
+
+'My' algorithm is just a pulling together established and known methods, and I make no claim to originality or innovation other than some minor tweaks here and there. I have tried to acknowledge other authors were possible in the script comments. Most notably the idea of using Scilab is similar to that used by 'Cuki' in his IR generator (I used Matlab a lot, but that is a closed system).
 
 All constructive comments and suggestions welcome!
 
