@@ -1,5 +1,5 @@
 # Acoustic instrument IR Generator
-A script for Scilab that allows generation of an IR from pickup and mic'd audio of an acoustic instrument.
+A script for Scilab that allows generation of an IR from pickup and mic'd audio of an acoustic instrument. It does NOT generate it's own excitation signals (sine, chirps,  pink noise, ...) but uses a musical performance as 'test' signal.
 
 This runs on Scilab (an open Matlab-like computing environment), and has been tested with version 6.1.1.
 
