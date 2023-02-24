@@ -39,4 +39,8 @@ I am a physicist and biomedical engineer with some knownledge of signal processi
 
 All constructive comments and suggestions welcome!
 
-![UI](https://user-images.githubusercontent.com/16563417/220201039-1f1b89b5-0e82-4b3a-9680-c1517521c339.jpg)
+![Main](https://user-images.githubusercontent.com/16563417/221225835-6f69f463-ced9-45d8-9778-9aa7117bbc2b.jpg)
+![PSDs](https://user-images.githubusercontent.com/16563417/221225854-4d422959-84bf-4c87-91a7-a45e2359aeb5.jpg)
+![IRAndTF](https://user-images.githubusercontent.com/16563417/221225859-78e7bcd1-355d-403b-b3d4-7d07fe9d79d9.jpg)
+
+
